@@ -1,5 +1,3 @@
-import React from "react";
-
 export const EmailSend = () => {
   return (
     <div className="mt-[197px] bg-[#F2F5FF] py-[60px] w-[100%]">

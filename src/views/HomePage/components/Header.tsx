@@ -1,5 +1,3 @@
-import firstBanner from "../../../assets/images/first-banner.png";
-
 const Header = () => {
   return (
     <div className="px-[120px] py-[24px] flex justify-between">
